@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thesilvercoin.github.io
+title: Chocolate Mantra
+email: thesilvercoin@gmail.com
+author: thesilvercoin
+description: Chocolate Mantra's official blog
+paginate: 2
+google_analytics: 
